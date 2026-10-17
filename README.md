@@ -18,7 +18,7 @@
 
 Soy estudiante de la **Tecnicatura Universitaria en Programación (UTN)** y desarrollo aplicaciones web, móviles y sistemas backend. Me interesan especialmente las **APIs REST, las bases de datos relacionales, la arquitectura de software y la seguridad**.
 
-Actualmente trabajo en **TiendUp**, un emprendimiento personal: una plataforma SaaS de comercio electrónico multi-tenant. Estoy buscando mi primera oportunidad profesional en desarrollo de software **Trainee / Junior**.
+Actualmente trabajo en **TiendUp**, un emprendimiento personal: una plataforma SaaS de comercio electrónico multi-tenant. Actualmente en busca de oportunidad para aplicar como desarrollador de software.
 
 ## 🛠️ Tecnologías
 
