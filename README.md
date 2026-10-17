@@ -1,83 +1,110 @@
-# Hola, soy Gustavo Santillán 👋
+<div align="center">
 
-### Desarrollador de Software | Backend & Full Stack
+# ¡Hola! Soy Gustavo Santillán 👋
 
-Soy estudiante de la **Tecnicatura Universitaria en Programación (UTN)** y desarrollador de software de Resistencia, Chaco, Argentina.
+### Software Developer · Backend & Full Stack
 
-Me interesa el desarrollo de aplicaciones web y móviles, especialmente el diseño de sistemas backend, APIs REST, bases de datos y arquitectura de software.
+**Estudiante de Programación en UTN · Resistencia, Chaco, Argentina 🇦🇷**
 
-Actualmente estoy desarrollando **TiendUp**, un emprendimiento tecnológico personal orientado a crear una plataforma SaaS de comercio electrónico multi-tenant.
+<a href="https://www.linkedin.com/in/gus-santillan-it"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectemos-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:santillangustavo.it@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contacto-0F172A?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/GusSantillan24"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-GusSantillan24-64748B?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-Busco mi primera oportunidad profesional en IT como **Software Developer Trainee / Junior**, donde pueda aportar mis conocimientos, aprender y seguir creciendo.
+</div>
 
-## Tecnologías y herramientas
+---
 
-**Lenguajes:** TypeScript, JavaScript, Python, SQL y Java (básico).
+## 👨‍💻 Sobre mí
 
-**Backend:** NestJS, Django, Django REST Framework y APIs REST.
+Soy estudiante de la **Tecnicatura Universitaria en Programación (UTN)** y desarrollo aplicaciones web, móviles y sistemas backend. Me interesan especialmente las **APIs REST, las bases de datos relacionales, la arquitectura de software y la seguridad**.
 
-**Frontend y mobile:** React, React Native, Expo y Vite.
+Actualmente trabajo en **TiendUp**, un emprendimiento personal: una plataforma SaaS de comercio electrónico multi-tenant. Estoy buscando mi primera oportunidad profesional en desarrollo de software **Trainee / Junior**.
 
-**Bases de datos y ORM:** PostgreSQL, MySQL, SQLite y Prisma.
+## 🛠️ Tecnologías
 
-**Herramientas y testing:** Git, GitHub, Linux, VS Code, Thunder Client y Jest.
+<div align="center">
 
-**Conceptos técnicos:** arquitectura modular, autenticación JWT, autorización basada en roles, multi-tenancy, transacciones, integridad de datos, concurrencia, idempotencia y pruebas automatizadas.
+**Lenguajes**
 
-## Proyectos destacados
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-475569?style=flat-square)
+![Java básico](https://img.shields.io/badge/Java-básico-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-### TiendUp — SaaS E-commerce
+**Backend y bases de datos**
 
-**Proyecto personal y emprendimiento tecnológico | En desarrollo**
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-9B1C31?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
-Plataforma de comercio electrónico multi-tenant diseñada para permitir que distintos comercios administren sus tiendas desde un mismo sistema.
+**Frontend y mobile**
 
-**Stack:** NestJS, TypeScript, PostgreSQL, Prisma, JWT y Jest.
+![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-087EA4?style=flat-square&logo=react&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-Funcionalidades y aspectos técnicos desarrollados:
+**Herramientas y testing**
 
-* APIs REST para productos, categorías, variantes, inventario, carritos, pedidos, pagos y clientes.
-* Autenticación y autorización para diferentes tipos de usuarios.
-* Aislamiento de información entre tiendas.
-* Arquitectura de monolito modular.
-* Transacciones, restricciones de integridad y control de concurrencia.
-* Operaciones idempotentes y pruebas unitarias y end-to-end.
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Thunder Client](https://img.shields.io/badge/Thunder_Client-6D28D9?style=flat-square)
 
-*Repositorio todavía no publicado. Proyecto en desarrollo, sin despliegue comercial.*
+</div>
 
-### Plataforma móvil de diseños 3D
+## 🚀 Proyectos destacados
 
-**Proyecto académico | React Native y Expo**
+### 🛍️ TiendUp — SaaS de comercio electrónico
 
-Aplicación móvil inspirada en redes sociales, diseñada para compartir y explorar diseños 3D.
+**Emprendimiento personal · Backend en desarrollo**
 
-* Feed de publicaciones y visualización detallada del contenido.
-* Perfiles de usuario, seguidores, seguidos y publicaciones.
-* Pantallas de carga de diseños y configuración.
-* Interfaces diferenciadas para visitantes y usuarios registrados.
-* Organización modular y componentes reutilizables.
+`NestJS` `TypeScript` `PostgreSQL` `Prisma` `JWT` `Jest`
 
-[Ver repositorio](https://github.com/GusSantillan24/market-3d-frontend)
+Plataforma SaaS multi-tenant para la administración de tiendas online.
 
-### Sistema web de reservas para spa
+- APIs REST para productos, categorías, variantes, inventario, carritos, pedidos, pagos, reembolsos y clientes.
+- Autenticación y autorización por roles, con controles de acceso entre tiendas.
+- Arquitectura de monolito modular y persistencia relacional.
+- Transacciones, restricciones de integridad, control de concurrencia e idempotencia.
+- Pruebas unitarias y end-to-end.
 
-**Proyecto académico | Django REST Framework, React y PostgreSQL**
+> 🔒 Repositorio todavía no publicado. Proyecto en desarrollo; no se presenta como producto en producción.
 
-Aplicación web orientada a la consulta de servicios y agendamiento de turnos.
+### 📱 Comunidad de diseños 3D — Frontend móvil
 
-* Backend REST desarrollado con Python y Django REST Framework.
-* Frontend con React.
-* Catálogo de servicios, categorías y precios.
-* Interfaz de reserva de turnos.
-* Uso inicial de SQLite y posterior integración de PostgreSQL.
+**Proyecto académico** · `React Native` `Expo`
 
-## Formación
+Interfaz de una aplicación social para explorar y compartir diseños 3D: feed, perfiles, publicaciones, seguidores, seguidos, configuraciones y pantallas para subir diseños. Organización modular y componentes reutilizables.
 
-**Tecnicatura Universitaria en Programación**
-Universidad Tecnológica Nacional (UTN) | 2024 – Actualidad
+🔗 [Ver repositorio](https://github.com/GusSantillan24/market-3d-frontend)
 
-## Contacto
+### 🗓️ Agenda de servicios de spa — Full Stack
 
-* **LinkedIn:** [Gustavo Santillán](https://www.linkedin.com/in/gus-santillan-it)
-* **GitHub:** [GusSantillan24](https://github.com/GusSantillan24)
-* **Email:** [santillangustavo.it@gmail.com](mailto:santillangustavo.it@gmail.com)
+**Proyecto académico** · `Python` `Django REST Framework` `React` `SQLite` `PostgreSQL`
+
+Aplicación web para consultar servicios, categorías, precios y agendar turnos. Backend REST y frontend React, con migración de SQLite a PostgreSQL en la integración final.
+
+## 🎓 Formación
+
+**Tecnicatura Universitaria en Programación** · Universidad Tecnológica Nacional (UTN)  
+2024 – Actualidad
+
+---
+
+<div align="center">
+
+### 📫 ¿Hablamos?
+
+Estoy abierto a oportunidades **Trainee / Junior** en desarrollo de software.
+
+[LinkedIn](https://www.linkedin.com/in/gus-santillan-it) · [Email](mailto:santillangustavo.it@gmail.com) · [GitHub](https://github.com/GusSantillan24)
+
+</div>
